@@ -8,7 +8,7 @@ image:
   repository: 985883769551.dkr.ecr.us-east-1.amazonaws.com/rigettidemo
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: build-14961936689
+  tag: build-14980138365
 
 imagePullSecrets: []
 nameOverride: ""
